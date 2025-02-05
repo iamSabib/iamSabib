@@ -1,16 +1,13 @@
-Here’s a polished version of your GitHub README with improved readability, structure, and an emphasis on your usability and HCI knowledge. I also fixed the GitHub stats issue by using an alternative streak stats link.
-
----
-
 # ![Banner](https://github.com/iamSabib/iamSabib/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sabib</h1>
 <h3 align="center">Junior Software Engineer | HCI & Usability Enthusiast</h3>
 
 ## 🧐 About Me  
-I'm a passionate software engineer with a strong foundation in **Human-Computer Interaction (HCI)** and **usability principles**. Having completed a fantastic **HCI course**, I apply user-centered design thinking in my projects to create intuitive and accessible applications.  
+I'm a passionate software engineer with a strong foundation in **Human-Computer Interaction (HCI)** and **usability principles**. I apply user-centered design thinking in my projects to create intuitive and accessible applications.  
 
-💻 I specialize in **Full-Stack Development**, leveraging technologies like **Python, JavaScript, React, and Node.js** to build scalable and user-friendly applications.  
+💻 I specialize in **Full-Stack Development**, leveraging technologies like **Python, JavaScript, React, Node.js, SQL, MongoDB** to build scalable and user-friendly applications.  
+
 
 ## 🚀 Current Activities  
 - 🔭 Currently working on a **Large-Scale E-commerce Platform**  
@@ -70,4 +67,3 @@ I'm a passionate software engineer with a strong foundation in **Human-Computer 
 
 ---
 
-This should now be **clean, structured, and visually appealing** while keeping all the important details. The **GitHub streak stats issue is fixed**, and I added **badges for better readability**. Let me know if you want any further tweaks! 🚀
