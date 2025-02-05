@@ -1,7 +1,7 @@
 # ![Banner](https://github.com/iamSabib/iamSabib/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sabib</h1>
-<h3 align="center">Junior Web Engineer | HCI & Usability Enthusiast</h3>
+<h3 align="center">Junior Web Developer | HCI & Usability Enthusiast</h3>
 
 ## 🧐 About Me  
 I'm a passionate software engineer with a strong foundation in **Human-Computer Interaction (HCI)** and **usability principles**. I apply user-centered design thinking in my projects to create intuitive and accessible applications.  
