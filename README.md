@@ -12,6 +12,15 @@
 - ⚡ Fun fact **I don't think iam funny**
 
 <h3 align="left">Connect with me:</h3>
+<div align="center">
+  <a href="https://www.facebook.com/tanzim.rahman.545/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/RahmanTanz40859" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
 <p align="left">
 </p>
 
